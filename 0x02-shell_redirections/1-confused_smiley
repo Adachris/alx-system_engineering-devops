@@ -1,2 +1,2 @@
-# 1-confused_smiley
-echo "\"(Ôo)'"
+#!/bin/bash
+cat file_1
