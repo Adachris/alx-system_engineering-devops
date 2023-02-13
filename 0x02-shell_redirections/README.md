@@ -1,1 +1,1 @@
-# 0x02 Shell, i/o Redirection and filters
+# 0x02 Confused smiley
