@@ -1,4 +1,5 @@
 #!/bin/bash
-ls -t | head 
+ls -ti | head
+
 
 
